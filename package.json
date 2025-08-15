@@ -1,0 +1,13 @@
+{
+  "name": "sender-whatsapp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.3.2"
+  }
+}
